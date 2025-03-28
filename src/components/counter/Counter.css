@@ -1,0 +1,22 @@
+.counter-container {
+  text-align: center;
+  margin-top: 40px;
+  box-shadow: var(--shadow-sm);
+  max-width: fit-content;
+  padding: 1rem;
+}
+
+.counter-display {
+  font-size: 48px;
+  margin: 20px 0;
+}
+
+.counter-controls button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #2196f3;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
